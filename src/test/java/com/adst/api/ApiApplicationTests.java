@@ -13,6 +13,7 @@ public class ApiApplicationTests {
 	@MockBean
 	private UsersRepository usersRepository;
 
+	// test of context.
 	@Test
 	public void contextLoads() {
 	}
